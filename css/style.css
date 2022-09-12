@@ -24,6 +24,9 @@ header{
     font-size: 10px;
     color: grey;
 }
+.evidenziato{
+    background-color: yellow;
+}
 table{
     width: 100vw;
     border-collapse: collapse;
@@ -39,4 +42,22 @@ th{
 }
 .alternate{
     background-color: lightblue;
+}
+.interesse-1{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 15vh;
+    color: white;
+    font-size: 30px;
+    margin: 5px;
+}
+.interesse-2{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 15vw;
+    height: 15vh;
+    color: white;
+    font-size: 30px;
+    margin: 5px;
 }
